@@ -61,8 +61,8 @@ The second loop reads data from `students_test.csv`:
 
 ### 🔗 Relationships
 
-majors (1) ───< majors_courses >─── (1) courses
-│
+majors (1) <─── majors_courses ───> (1) courses
+
 └──< students
 
 
@@ -99,7 +99,7 @@ The following files in the same directory:
 
 ## 🏁 Learning Objectives
 
-This project helps you practice:
+This project helped me to practice:
 
 - Automating PostgreSQL operations using Bash scripts
 
