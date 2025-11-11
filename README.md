@@ -105,6 +105,12 @@ This project helped me to practice:
 
 - Handling conditional logic and loops in shell programming
 
+## 👨‍💻 Author
+
+Created by: Hugo Rocha
+
+
 - Managing relationships between multiple database tables
 
 - Writing reusable, idempotent data import scripts
+
